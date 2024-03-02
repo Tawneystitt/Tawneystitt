@@ -12,7 +12,9 @@
   - [Cover Letter](https://github.com/Tawneystitt/CoverLetter1)
 
 
-  <h2>Computer Information Systems Projects:</h2>
+ <h2>Business and Systems Analysis:</h2>
+ 
+ <h2>Database Design and Applications:</h2>
 
   - [Crow's Foot ERD for Tiny College](https://github.com/Tawneystitt/Crow-s-Foot-Notation-ERD)
   - [Sql query Bike Excersise](https://github.com/Tawneystitt/Sql-Bike-Excersise/blob/main/README.md)
@@ -20,11 +22,14 @@
 
 
 
-    <h2>Coding Projects:</h2>
+    <h2>Programming Skills:</h2>
 
   - [Calculator for Louies Lawncare](https://github.com/Tawneystitt/Program-Calculator/blob/main/README.md)
 
+ <h2>Internet Skills:</h2>
 
+<h2>Personal/Professional Reference:</h2>
+ 
 
  
 
