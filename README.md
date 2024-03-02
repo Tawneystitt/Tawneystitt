@@ -5,12 +5,14 @@
 
 <b><p align="center">💬I am a Computer Information Systems student at the University of Louisville majoring in web development. This portfolio go's over my projects I have completed during my time at the University of Louisville. Thanks for checking it out!</br>
 
+<h2>Internships: </h2>
+   QA IT Intern for KFC YUM Brands: July 2023 - present
 <h2>Resume and Cover Letter:</h2>
 
   - [Cover Letter](https://github.com/Tawneystitt/CoverLetter1)
 
 
-    <h2>Computer Information Systems Projects:</h2>
+  <h2>Computer Information Systems Projects:</h2>
 
   - [Crow's Foot ERD for Tiny College](https://github.com/Tawneystitt/Crow-s-Foot-Notation-ERD)
   - [Sql query Bike Excersise](https://github.com/Tawneystitt/Sql-Bike-Excersise/blob/main/README.md)
@@ -24,8 +26,7 @@
 
 
 
-
-
+ 
 
 <h2> Connect with me:</h2>
 [linkedin]: [https://www.linkedin.com/in/tawneystitt]
