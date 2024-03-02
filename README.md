@@ -1,8 +1,14 @@
 <h1>Hi, I'm Tawney! <a href="[https://www.linkedin.com/in/tawneystitt/]">CIS Student at University of Louisville</a> </h1>
 
-<h2>Computer Information Systems Projects:</h2>
+<h2>Resume and Cover Letter:</h2>
 
   - [Cover Letter](https://github.com/Tawneystitt/CoverLetter1)
+
+
+    <h2>Computer Information Systems Projects:</h2>
+
+  - [Crow's Foot ERD for Tiny College](https://github.com/Tawneystitt/Crow-s-Foot-Notation-ERD)
+
 
 
 
