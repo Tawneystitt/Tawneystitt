@@ -1,4 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Tawney! <a href="[https://www.linkedin.com/in/tawneystitt/]">CIS Student at University of Louisville</a> </h1>
+
+<h2>Computer Information Systems Projects:</h2>
+
+  - [Active Directory Home Lab](https://github.com/Tawneystitt/)
+
+
+
+
+<h2> Connect with me:</h2>
+[linkedin]: [https://www.linkedin.com/in/tawneystitt]
+
 
 <!--
 **Tawneystitt/Tawneystitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
