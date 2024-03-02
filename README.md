@@ -15,8 +15,8 @@
  
  <h2>Database Design and Applications:</h2>
 
-  - [Crow's Foot ERD for Tiny College](https://github.com/Tawneystitt/Crow-s-Foot-Notation-ERD)
-  - [Sql query Bike Excersise](https://github.com/Tawneystitt/Sql-Bike-Excersise/blob/main/README.md)
+  - [Crow's Foot ERD](https://github.com/Tawneystitt/Crow-s-Foot-Notation-ERD)
+  - [Sql query Excersise](https://github.com/Tawneystitt/Sql-Querys)
 
 
 
