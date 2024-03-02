@@ -1,6 +1,9 @@
-<h1>Hi, I'm Tawney Stitt! <a href="[https://www.linkedin.com/in/tawneystitt/]"></a> </h1>
 
-<b>💬I am a Computer Information Systems student at the University of Louisville majoring in web development. This portfolio go's over my projects I have completed during my time at the University of Louisville. Thanks for checking it out!</br>
+<h1><p align="center">Hi, I'm Tawney Stitt! <a href="[https://www.linkedin.com/in/tawneystitt/]"></a> </h1>
+
+<p align="center"> <img src="https://i.imgur.com/5FFyToL.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps]"/>
+
+<b><p align="center">💬I am a Computer Information Systems student at the University of Louisville majoring in web development. This portfolio go's over my projects I have completed during my time at the University of Louisville. Thanks for checking it out!</br>
 
 <h2>Resume and Cover Letter:</h2>
 
