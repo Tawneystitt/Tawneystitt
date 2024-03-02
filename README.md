@@ -10,6 +10,9 @@
     <h2>Computer Information Systems Projects:</h2>
 
   - [Crow's Foot ERD for Tiny College](https://github.com/Tawneystitt/Crow-s-Foot-Notation-ERD)
+  - [Sql query Bike Excersise](https://github.com/Tawneystitt/Sql-Bike-Excersise/blob/main/README.md)
+
+
 
 
     <h2>Coding Projects:</h2>
