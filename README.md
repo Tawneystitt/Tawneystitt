@@ -23,7 +23,7 @@
 
     <h2>Programming Skills:</h2>
 
-  - [Calculator for Louies Lawncare](https://github.com/Tawneystitt/Program-Calculator/blob/main/README.md)
+  - [Calculator](https://github.com/Tawneystitt/Program-Calculator/blob/main/README.md)
 
  <h2>Skills:</h2>
 ✨•Customer-focused • Project Management • HTML • C# • Microsoft sql • GIT-HUB • VisualStudios • LucidChart • Microsoft word • Microsoft Azure Cloud✨
