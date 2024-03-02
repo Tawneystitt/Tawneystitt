@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tawney Stitt! <a href="[https://www.linkedin.com/in/tawneystitt/]"></a> </h1>
 
-<b>💬I am a Computer Information Systems student at the University of Louisville. This portfolio go's over my projects I have completed during my time at University of Louisville. Thanks for checking it out!</br>
+<b>💬I am a Computer Information Systems student at the University of Louisville majoring in web development. This portfolio go's over my projects I have completed during my time at the University of Louisville. Thanks for checking it out!</br>
 
 <h2>Resume and Cover Letter:</h2>
 
