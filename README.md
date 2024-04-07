@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://i.imgur.com/5FFyToL.jpeg" height="80%" width="80%" alt="]"/>
 
-<b><p align="center">💬I am a Computer Information Systems student at the University of Louisville majoring in web development. This portfolio go's over my projects I have completed during my time at the University of Louisville. Thanks for checking it out!</br>
+<b><p align="center">💬I am a Computer Information Systems student at the University of Louisville majoring in web development. This portfolio go's over different projects I have completed during my time at the University of Louisville. Thanks for checking it out!</br>
 
 <h2>Internships: </h2>
    QA IT Intern for KFC YUM Brands: July 2023 - present
@@ -31,7 +31,7 @@
   - [Loop code](https://github.com/Tawneystitt/Loop-code/blob/main/README.md)
 
  <h2>Skills:</h2>
-✨•Customer-focused • Project Management • HTML • C# • Microsoft sql • GIT-HUB • VisualStudios • LucidChart • Microsoft word • Microsoft Azure Cloud •WordPress •APIs •MySQL •.Net •PowerShell •Command Line •Agile methodologies •IDE’s Visual Studio •Git •Git Bash •GitHub •Microsoft Office Word, Excel, PowerPoint •Server based installations/upgrades •AzureAD.✨
+✨•Customer-focused • Project Management • HTML • C# • Microsoft sql • GIT-HUB • VisualStudios • LucidChart • Microsoft Azure Cloud •WordPress •APIs •MySQL •.Net •PowerShell •Command Line •Agile methodologies •IDE’s Visual Studio •Git •Git Bash •GitHub •Microsoft Office Word, Excel, PowerPoint •Server based installations/upgrades •AzureAD •Jira .✨
 <h2>Personal/Professional Reference:</h2>
  
 
