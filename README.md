@@ -31,8 +31,7 @@
   - [Loop code](https://github.com/Tawneystitt/Loop-code/blob/main/README.md)
 
  <h2>Skills:</h2>
-✨•Customer-focused • Project Management • HTML • C# • Microsoft sql • GIT-HUB • VisualStudios • LucidChart • Microsoft word • Microsoft Azure Cloud✨
-
+✨•Customer-focused • Project Management • HTML • C# • Microsoft sql • GIT-HUB • VisualStudios • LucidChart • Microsoft word • Microsoft Azure Cloud •WordPress •APIs •MySQL •.Net •PowerShell •Command Line •Agile methodologies •IDE’s Visual Studio •Git •Git Bash •GitHub •Microsoft Office Word, Excel, PowerPoint •Server based installations/upgrades •AzureAD.✨
 <h2>Personal/Professional Reference:</h2>
  
 
