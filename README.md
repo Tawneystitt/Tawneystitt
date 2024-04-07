@@ -6,12 +6,15 @@
 
 <h2>Internships: </h2>
    QA IT Intern for KFC YUM Brands: July 2023 - present
-<h2>Resume and Cover Letter:</h2>
 
-  - [Cover Letter](https://github.com/Tawneystitt/CoverLetter1)
 
 
  <h2>Business and Systems Analysis:</h2>
+
+
+  - [Cover Letter](https://github.com/Tawneystitt/CoverLetter1) 
+  - [Resume]( https://github.com/Tawneystitt/Resume/blob/main/README.md)
+
  
  <h2>Database Design and Applications:</h2>
 
