@@ -33,8 +33,6 @@
 
 
 
-https://github.com/Tawneystitt/IT-assessment-/blob/main/README.md
-
 
 
  <h2>✨Skills:</h2>
