@@ -27,7 +27,7 @@
   - [Calculator](https://github.com/Tawneystitt/Program-Calculator/blob/main/README.md)
   - [Temperature mean finder](https://github.com/Tawneystitt/Temperature--mean/blob/main/README.md)
   - [Loop code](https://github.com/Tawneystitt/Loop-code/blob/main/README.md)
-  - [Lab 4 code](https://github.com/Tawneystitt/identifier-program/blob/main/README.md)
+  - [generic types code](https://github.com/Tawneystitt/identifier-program/blob/main/README.md)
 
 
 
