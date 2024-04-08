@@ -49,7 +49,7 @@
 
  
 <h2> 😄Fun facts about me:</h2>
-In my spare time, I find great joy in fishing, as well as listening to artist like Zach Bryan and Tyler Childers. Traveling is another passion of mine; I recently had the incredible opportunity to visit the Rocky Mountain National Park in Colorado, a truly breathtaking experience. Adding to my adventures, I participated in my first half marathon at the Kentucky Derby, marking a memorable milestone in my journey.<p align="center">
+I am from Northern Michigan. In my spare time, I find great joy in fishing, as well as listening to artist like Zach Bryan and Tyler Childers. Traveling is another passion of mine; I recently had the incredible opportunity to visit the Rocky Mountain National Park in Colorado, a truly breathtaking experience. Adding to my adventures, I participated in my first half marathon at the Kentucky Derby, marking a memorable milestone in my journey.<p align="center">
  <img src="https://i.imgur.com/IKFotCJ.png" height="26%" width="26%" alt="]"/>
  <img src="https://i.imgur.com/91Jmlaz.png" height="26%" width="26%" alt="]"/>
  <img src="https://i.imgur.com/MdTO58O.png" height="26%" width="26%" alt="]"/>
