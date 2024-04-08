@@ -9,29 +9,29 @@
 
 
 
- <h2>Business and Systems Analysis:</h2>
+ <h2>Cover letter & Resume:</h2>
 
 
   - [Cover Letter](https://github.com/Tawneystitt/CoverLetter1) 
   - [Resume]( https://github.com/Tawneystitt/Resume/blob/main/README.md)
-  - [UFD/SAD]( https://i.imgur.com/wsK39VR.png)
+
 
  
- <h2>Database Design and Applications:</h2>
+ <h2>Projects and assignments:</h2>
 
   - [Crow's Foot ERD](https://github.com/Tawneystitt/Crow-s-Foot-Notation-ERD)
   - [Sql query Excersise](https://github.com/Tawneystitt/Sql-Querys)
   - [Query excersise](https://github.com/Tawneystitt/SQL-query/blob/main/README.md)
   - [Waitlist/Booking scheduling site for Non Profit company](https://github.com/Tawneystitt/Waitlist-booking/blob/main/README.md)
-
-
-
-
-    <h2>Programming Skills:</h2>
-
+  - [UFD/SAD]( https://i.imgur.com/wsK39VR.png)
   - [Calculator](https://github.com/Tawneystitt/Program-Calculator/blob/main/README.md)
   - [Temperature mean finder](https://github.com/Tawneystitt/Temperature--mean/blob/main/README.md)
   - [Loop code](https://github.com/Tawneystitt/Loop-code/blob/main/README.md)
+  - [Lab 4 code](https://github.com/Tawneystitt/identifier-program/blob/main/README.md)
+
+
+
+
 
  <h2>Skills:</h2>
 ✨•Customer-focused • Project Management • HTML • C# • Microsoft sql • GIT-HUB • VisualStudios • LucidChart • Microsoft Azure Cloud •WordPress •APIs •MySQL •.Net •PowerShell •Command Line •Agile methodologies •IDE’s Visual Studio •Git •Git Bash •GitHub •Microsoft Office Word, Excel, PowerPoint •Server based installations/upgrades •AzureAD •Jira .✨
