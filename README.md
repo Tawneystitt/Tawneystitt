@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://i.imgur.com/5FFyToL.jpeg" height="80%" width="80%" alt="]"/>
 
-<b><p align="center">💬I am a Computer Information Systems student at the University of Louisville majoring in web development. This portfolio go's over different projects I have completed during my time at the University of Louisville. Thanks for checking it out!</br>
+<b><p align="center">💬I'm currently a Computer Information Systems student at the University of Louisville, specializing in web development. This portfolio showcases a variety of projects I've completed throughout my academic journey at the university. Thank you for taking the time to explore my work!</br>
 
 <h2>Internships: </h2>
    QA IT Intern for KFC YUM Brands: July 2023 - present
@@ -33,10 +33,25 @@
 
 
 
- <h2>Skills:</h2>
-✨•Customer-focused • Project Management • HTML • C# • Microsoft sql • GIT-HUB • VisualStudios • LucidChart • Microsoft Azure Cloud •WordPress •APIs •MySQL •.Net •PowerShell •Command Line •Agile methodologies •IDE’s Visual Studio •Git •Git Bash •GitHub •Microsoft Office Word, Excel, PowerPoint •Server based installations/upgrades •AzureAD •Jira .✨
-<h2>Personal/Professional Reference:</h2>
+ <h2>✨Skills:</h2>
+•Programming & Markup Languages: HTML, C#, PowerShell<b>
+•Database Management: Microsoft SQL, MySQL</br>
+•Development Tools & Environments: Visual Studio, .NET, IDEs, Command Line<b>
+•Version Control: Git, GitHub, Git Bash
+•Cloud Computing: Microsoft Azure Cloud
+•Project Management & Collaboration: Agile Methodologies, Jira, Microsoft Office Suite (Word, Excel, PowerPoint)
+•Design & Documentation: LucidChart, WordPress
+•APIs & Web Services: Experience with various APIs
+•System Administration: Server-based installations/upgrades, AzureAD
+•Core Competencies:Customer Focus,Project Management,Agile Methodologies
+
  
+<h2> 😄Fun facts about me:</h2>
+In my spare time, I find great joy in fishing, as well as listening to artist like Zach Bryan and Tyler Childers. Traveling is another passion of mine; I recently had the incredible opportunity to visit the Rocky Mountain National Park in Colorado, a truly breathtaking experience. Adding to my adventures, I participated in my first half marathon at the Kentucky Derby, marking a memorable milestone in my journey.
+ <img src="https://i.imgur.com/IKFotCJ.png" height="30%" width="30%" alt="]"/>
+ <img src="https://i.imgur.com/91Jmlaz.png" height="30%" width="30%" alt="]"/>
+ <img src="https://i.imgur.com/MdTO58O.png" height="30%" width="30%" alt="]"/>
+
 
  
 
