@@ -20,6 +20,7 @@
 
   - [Crow's Foot ERD](https://github.com/Tawneystitt/Crow-s-Foot-Notation-ERD)
   - [Sql query Excersise](https://github.com/Tawneystitt/Sql-Querys)
+  - [Query excersise](https://github.com/Tawneystitt/SQL-query/blob/main/README.md)
   - [Waitlist/Booking scheduling site for Non Profit company](https://github.com/Tawneystitt/Waitlist-booking/blob/main/README.md)
 
 
