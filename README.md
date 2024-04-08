@@ -17,7 +17,7 @@
 
 
  
- <h2>Projects and assignments:</h2>
+ <h2>Projects and Assignments:</h2>
 
   - [Crow's Foot ERD](https://github.com/Tawneystitt/Crow-s-Foot-Notation-ERD)
   - [Sql query Excersise](https://github.com/Tawneystitt/Sql-Querys)
