@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://i.imgur.com/5FFyToL.jpeg" height="80%" width="80%" alt="]"/>
 
-<b><p align="center">💬I'm currently a Computer Information Systems student at the University of Louisville, specializing in web development. This portfolio showcases a variety of projects I've completed throughout my academic journey at the university. Thank you for taking the time to explore my work!</br>
+<b><p align="Left">💬I'm currently a Computer Information Systems student at the University of Louisville, specializing in web development. This portfolio showcases a variety of projects I've completed throughout my academic journey at the university. Thank you for taking the time to explore my work!</br>
 
 <h2>Internships: </h2>
    QA IT Intern for KFC YUM Brands: July 2023 - present
@@ -47,7 +47,7 @@
 
  
 <h2> 😄Fun facts about me:</h2>
-In my spare time, I find great joy in fishing, as well as listening to artist like Zach Bryan and Tyler Childers. Traveling is another passion of mine; I recently had the incredible opportunity to visit the Rocky Mountain National Park in Colorado, a truly breathtaking experience. Adding to my adventures, I participated in my first half marathon at the Kentucky Derby, marking a memorable milestone in my journey.
+In my spare time, I find great joy in fishing, as well as listening to artist like Zach Bryan and Tyler Childers. Traveling is another passion of mine; I recently had the incredible opportunity to visit the Rocky Mountain National Park in Colorado, a truly breathtaking experience. Adding to my adventures, I participated in my first half marathon at the Kentucky Derby, marking a memorable milestone in my journey.<p align="center">
  <img src="https://i.imgur.com/IKFotCJ.png" height="26%" width="26%" alt="]"/>
  <img src="https://i.imgur.com/91Jmlaz.png" height="26%" width="26%" alt="]"/>
  <img src="https://i.imgur.com/MdTO58O.png" height="26%" width="26%" alt="]"/>
