@@ -33,12 +33,7 @@
 - [Loop code](https://github.com/Tawneystitt/Loop-code/blob/main/README.md)
 - [generic types code](https://github.com/Tawneystitt/identifier-program/blob/main/README.md)
 - [nested loop code](https://github.com/Tawneystitt/Coding-assignment-nested-loops/blob/main/README.md)
-
-<h2>CIS Mgmt of Info Systems:</h2>
 - [Strategic Assessment](https://github.com/Tawneystitt/IT-assessment-/blob/main/README.md)
-
-
-<h2>CIS Development Project:</h2>
 - [Waitlist/Booking scheduling site for Non Profit company](https://github.com/Tawneystitt/Waitlist-booking/blob/main/README.md)
 
 
