@@ -15,37 +15,28 @@
   - [Cover Letter](https://github.com/Tawneystitt/CoverLetter1) 
   - [Resume]( https://github.com/Tawneystitt/Resume/blob/main/README.md)
 
-
+ <h2>✨Skills:</h2>
+•HTML, C#, PowerShell, Microsoft SQL, MySQL, Visual Studio, Microsoft Azure Cloud, Jira, Microsoft Office Suite (Word, Excel, PowerPoint), LucidChart, Experience with various APIs
  
- <h2>Projects and Assignments:</h2>
+ <h2>SQL & Database Design Projects:</h2>
 
   - [Crow's Foot ERD](https://github.com/Tawneystitt/Crow-s-Foot-Notation-ERD)
   - [Sql query Excersise](https://github.com/Tawneystitt/Sql-Querys)
   - [Query excersise](https://github.com/Tawneystitt/SQL-query/blob/main/README.md)
-  - [Waitlist/Booking scheduling site for Non Profit company](https://github.com/Tawneystitt/Waitlist-booking/blob/main/README.md)
   - [UFD/SAD]( https://i.imgur.com/wsK39VR.png)
-  - [Calculator](https://github.com/Tawneystitt/Program-Calculator/blob/main/README.md)
-  - [Temperature mean finder](https://github.com/Tawneystitt/Temperature--mean/blob/main/README.md)
-  - [Loop code](https://github.com/Tawneystitt/Loop-code/blob/main/README.md)
-  - [generic types code](https://github.com/Tawneystitt/identifier-program/blob/main/README.md)
-  - [nested loop code](https://github.com/Tawneystitt/Coding-assignment-nested-loops/blob/main/README.md)
-  - [Strategic Assessment](https://github.com/Tawneystitt/IT-assessment-/blob/main/README.md)
+  
+ 
+ <h2>C++ and Javascript Projects:</h2>
+
+- [Calculator](https://github.com/Tawneystitt/Program-Calculator/blob/main/README.md)
+- [Temperature mean finder](https://github.com/Tawneystitt/Temperature--mean/blob/main/README.md)
+- [Loop code](https://github.com/Tawneystitt/Loop-code/blob/main/README.md)
+- [generic types code](https://github.com/Tawneystitt/identifier-program/blob/main/README.md)
+- [nested loop code](https://github.com/Tawneystitt/Coding-assignment-nested-loops/blob/main/README.md)
+- [Strategic Assessment](https://github.com/Tawneystitt/IT-assessment-/blob/main/README.md)
+- [Waitlist/Booking scheduling site for Non Profit company](https://github.com/Tawneystitt/Waitlist-booking/blob/main/README.md)
 
 
-
-
-
- <h2>✨Skills:</h2>
-•Programming & Markup Languages: HTML, C#, PowerShell<b>
-•Database Management: Microsoft SQL, MySQL</br>
-•Development Tools & Environments: Visual Studio, .NET, IDEs, Command Line<b>
-•Version Control: Git, GitHub, Git Bash
-•Cloud Computing: Microsoft Azure Cloud
-•Project Management & Collaboration: Agile Methodologies, Jira, Microsoft Office Suite (Word, Excel, PowerPoint)
-•Design & Documentation: LucidChart, WordPress
-•APIs & Web Services: Experience with various APIs
-•System Administration: Server-based installations/upgrades, AzureAD
-•Core Competencies:Customer Focus,Project Management,Agile Methodologies
 
  
 <h2> 😄Fun facts about me:</h2>
