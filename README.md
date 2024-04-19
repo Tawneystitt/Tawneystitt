@@ -39,7 +39,7 @@
 - [Waitlist/Booking scheduling site for Non Profit company](https://github.com/Tawneystitt/Waitlist-booking/blob/main/README.md)
 - [UFD/SAD]( https://i.imgur.com/wsK39VR.png)
 
-<h2> System and Analysis Design Projects:</h2>
+<h2> Mgmt of Information Systems:</h2>
 
 - [Strategic Assessment](https://github.com/Tawneystitt/IT-assessment-/blob/main/README.md)
 
