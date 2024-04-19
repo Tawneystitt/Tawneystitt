@@ -15,15 +15,43 @@
   - [Cover Letter](https://github.com/Tawneystitt/CoverLetter1) 
   - [Resume]( https://github.com/Tawneystitt/Resume/blob/main/README.md)
 
- <h2>✨Skills:</h2>
-•HTML, C#, PowerShell, Microsoft SQL, MySQL, Visual Studio, Microsoft Azure Cloud, Jira, Microsoft Office Suite (Word, Excel, PowerPoint), LucidChart, Experience with various APIs
- 
- <h2>SQL & Database Design Projects:</h2>
+<h2>✨Skills:</h2>
+<br>•Programming Languages:<b></br>
+<br>C#</br>
+<br>HTML</br>
+<br>JavaScript</br>
+<br>•Databases:</br>
+<br>Microsoft SQL</br>
+<br>MySQL</br>
+<br>•Development Environments:</br>
+<br>Visual Studio</br>
+<br>•Cloud Platforms:</br>
+<br>Microsoft Azure Cloud</br>
+<br>•Project Management and Collaboration Tools:</br>
+<br>Jira</br>
+<br>•Office Tools:</br>
+<br>Microsoft Office Suite (Word, Excel, PowerPoint)</br>
+<br>•Diagram and Design Tools:</br>
+<br>LucidChart</br>
+
+<h2> System and Analysis Design Projects:</h2>
+
+- [Waitlist/Booking scheduling site for Non Profit company](https://github.com/Tawneystitt/Waitlist-booking/blob/main/README.md)
+- [UFD/SAD]( https://i.imgur.com/wsK39VR.png)
+
+<h2> System and Analysis Design Projects:</h2>
+
+- [Strategic Assessment](https://github.com/Tawneystitt/IT-assessment-/blob/main/README.md)
+
+
+
+
+ <h2>SQL & Database Design Projects: </h2>
 
   - [Crow's Foot ERD](https://github.com/Tawneystitt/Crow-s-Foot-Notation-ERD)
   - [Sql query Excersise](https://github.com/Tawneystitt/Sql-Querys)
   - [Query excersise](https://github.com/Tawneystitt/SQL-query/blob/main/README.md)
-  - [UFD/SAD]( https://i.imgur.com/wsK39VR.png)
+  
   
  
  <h2>C++ and Javascript Projects:</h2>
@@ -33,8 +61,8 @@
 - [Loop code](https://github.com/Tawneystitt/Loop-code/blob/main/README.md)
 - [generic types code](https://github.com/Tawneystitt/identifier-program/blob/main/README.md)
 - [nested loop code](https://github.com/Tawneystitt/Coding-assignment-nested-loops/blob/main/README.md)
-- [Strategic Assessment](https://github.com/Tawneystitt/IT-assessment-/blob/main/README.md)
-- [Waitlist/Booking scheduling site for Non Profit company](https://github.com/Tawneystitt/Waitlist-booking/blob/main/README.md)
+
+
 
 
 
