@@ -16,23 +16,24 @@
   - [Resume]( https://github.com/Tawneystitt/Resume/blob/main/README.md)
 
 <h2>✨Skills:</h2>
-<br>•Programming Languages:<b></br>
-<br>C#</br>
-<br>HTML</br>
-<br>JavaScript</br>
-<br>•Databases:</br>
-<br>Microsoft SQL</br>
-<br>MySQL</br>
-<br>•Development Environments:</br>
-<br>Visual Studio</br>
-<br>•Cloud Platforms:</br>
-<br>Microsoft Azure Cloud</br>
-<br>•Project Management and Collaboration Tools:</br>
-<br>Jira</br>
-<br>•Office Tools:</br>
-<br>Microsoft Office Suite (Word, Excel, PowerPoint)</br>
-<br>•Diagram and Design Tools:</br>
-<br>LucidChart</br>
+
+
+<br>Programming Languages:</br>
+<li> C#,HTML,JavaScript</a></li>
+<br>Databases:</br>
+<li>Microsoft SQL</a></li>
+<li>MySQL</a></li>
+<br>Development Environments:</br>
+<li>Visual Studio</a></li>
+<br>Cloud Platforms:</br>
+<li>Microsoft Azure Cloud</a></li>
+<br>Project Management and Collaboration Tools:</br>
+<li>Jira</a></li>
+<br>Office Tools:</br>
+<li>Microsoft Office Suite (Word, Excel, PowerPoint)</a></li>
+<br>Diagram and Design Tools:</br>
+<li>LucidChart</a></li>
+
 
 <h2> System and Analysis Design Projects:</h2>
 
