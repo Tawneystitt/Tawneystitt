@@ -50,8 +50,8 @@
 <h2> Mgmt of Information Systems:</h2>
 
 - [Strategic Assessment](https://github.com/Tawneystitt/IT-assessment-/blob/main/README.md)
-- [Case Study](https://github.com/Tawneystitt/Case-Study/blob/main/README.md)
-- [Case Study](https://github.com/Tawneystitt/Case-Report-2/blob/main/README.md)
+- [Case Study Report](https://github.com/Tawneystitt/Case-Study/blob/main/README.md)
+- [Case Study Report](https://github.com/Tawneystitt/Case-Report-2/blob/main/README.md)
 
 
 
