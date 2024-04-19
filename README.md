@@ -49,7 +49,6 @@
  <h2>SQL & Database Design Projects: </h2>
 
   - [Crow's Foot ERD](https://github.com/Tawneystitt/Crow-s-Foot-Notation-ERD)
-  - [Sql query Excersise](https://github.com/Tawneystitt/Sql-Querys)
   - [Query excersise](https://github.com/Tawneystitt/SQL-query/blob/main/README.md)
   
   
