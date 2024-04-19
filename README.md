@@ -4,6 +4,10 @@
 
 <b><p align="Left">💬I'm currently a Computer Information Systems student at the University of Louisville, specializing in web development. This portfolio showcases a variety of projects I've completed throughout my academic journey at the university. Thank you for taking the time to explore my work!</br>
 
+<h2> Connect with me:</h2>
+linkedin: https://www.linkedin.com/in/tawneystitt
+
+
 <h2>Internships: </h2>
    QA IT Intern for KFC YUM Brands: July 2023 - present
 
@@ -83,8 +87,6 @@ I am from Northern Michigan. In my spare time, I find great joy in fishing, as w
 
  
 
-<h2> Connect with me:</h2>
-linkedin: https://www.linkedin.com/in/tawneystitt
 
 
 <!--
