@@ -56,6 +56,7 @@
 
   - [Crow's Foot ERD](https://github.com/Tawneystitt/Crow-s-Foot-Notation-ERD)
   - [Query excersise](https://github.com/Tawneystitt/SQL-query/blob/main/README.md)
+  - [Query excersise](https://github.com/Tawneystitt/SqlQuery/blob/main/README.md)
   
   
  
