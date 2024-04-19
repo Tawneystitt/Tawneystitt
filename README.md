@@ -19,7 +19,9 @@
 
 
 <br>Programming Languages:</br>
-<li> C#,HTML,JavaScript</a></li>
+<li> C#</a></li>
+<li> HTML</a></li>
+<li> JavaScript</a></li>
 <br>Databases:</br>
 <li>Microsoft SQL</a></li>
 <li>MySQL</a></li>
