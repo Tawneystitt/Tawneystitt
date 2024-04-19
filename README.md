@@ -43,6 +43,7 @@
 - [UFD/SAD]( https://i.imgur.com/wsK39VR.png)
 - [RTM Created for our nonprofit development](https://github.com/Tawneystitt/RTM)
 - [System Requirements](https://github.com/Tawneystitt/SystemRequirements/blob/main/README.md)
+- [Use Cases](https://github.com/Tawneystitt/UseCases/blob/main/README.md) 
 
 <h2> Mgmt of Information Systems:</h2>
 - [Strategic Assessment](https://github.com/Tawneystitt/IT-assessment-/blob/main/README.md)
