@@ -6,6 +6,7 @@
 
 
 
+
 <h2>Internships: </h2>
    QA IT Intern for KFC YUM Brands: July 2023 - present
 
@@ -82,16 +83,21 @@
 <h2>😄 Fun facts about me:</h2>
 
 <p>
-  I’m based in Northern Michigan and teach Graphic Arts at Charlton Heston Academy.
-  I love helping students build real-world design skills through creative projects.
-  Outside the classroom, I enjoy traveling and exploring new places whenever I can—and I’m always up for a new challenge.
-  I recently completed my first half marathon at the Kentucky Derby.
+  I am based in Northern Michigan and teach Graphic Arts at Charlton Heston Academy.
+  I have 3 daughters. I also have been married for 11 years to my bestfriend. :)
+ We have a yorkie named Jax. Outside of my family life I really love helping students build real-world design skills through creative projects.
+  Outside the classroom, I enjoy traveling and exploring new places whenever I can and I’m always up for a new challenge.
+  I recently completed my first half marathon at the Kentucky Derby. I also had the opportunity to check out the Rocky mountain national park, truly a breath taking experience. My next trip I want to travel to Japan.
 </p>
 
 <p align="center">
   <img src="https://i.imgur.com/IKFotCJ.png" width="250" alt="Rocky Mountain National Park" style="margin: 6px;" />
   <img src="https://i.imgur.com/91Jmlaz.png" width="250" alt="Half marathon at the Kentucky Derby" style="margin: 6px;" />
   <img src="https://i.imgur.com/chRrxE2.png" width="250" alt="Northern Michigan outdoors" style="margin: 6px;" />
+  <img src="https://i.imgur.com/bO6bhBf.png" width="250" alt="CHA logo" style="margin: 6px;" />
+
+
+   
 </p>
 
 
