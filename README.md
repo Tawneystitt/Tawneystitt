@@ -84,8 +84,7 @@ I am from Northern Michigan. In my spare time, I find great joy in fishing, as w
  <img src="https://i.imgur.com/IKFotCJ.png" height="26%" width="26%" alt="]"/>
  <img src="https://i.imgur.com/91Jmlaz.png" height="26%" width="26%" alt="]"/>
  <img src="https://i.imgur.com/MdTO58O.png" height="26%" width="26%" alt="]"/>
-
-
+![Image](https://github.com/user-attachments/assets/3454e9bc-4725-4365-ac19-54951f8ce2df)
  <h2> Connect with me:</h2>
 linkedin: https://www.linkedin.com/in/tawneystitt
 
