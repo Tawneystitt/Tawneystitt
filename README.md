@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://i.imgur.com/5FFyToL.jpeg" height="80%" width="80%" alt="]"/>
 
-<b><p align="Left">💬I'm currently a Computer Information Systems student at the University of Louisville, specializing in web development. This portfolio showcases a variety of projects I've completed throughout my academic journey at the university. Thank you for taking the time to explore my work!</br>
+<b><p align="Left">💬I have completed my degree in Computer Information Systems student at the University of Louisville, specializing in web development. This portfolio showcases a variety of projects I completed during my academic journey at the university. Thank you for taking the time to explore my work!</br>
 
 
 
@@ -79,12 +79,24 @@
 
 
  
-<h2> 😄Fun facts about me:</h2>
-I am from Northern Michigan. In my spare time, I find great joy in fishing, as well as listening to artist like Zach Bryan and Tyler Childers. Traveling is another passion of mine; I recently had the incredible opportunity to visit the Rocky Mountain National Park in Colorado, a truly breathtaking experience. Adding to my adventures, I participated in my first half marathon at the Kentucky Derby, marking a memorable milestone in my journey.<p align="center">
- <img src="https://i.imgur.com/IKFotCJ.png" height="26%" width="26%" alt="]"/>
- <img src="https://i.imgur.com/91Jmlaz.png" height="26%" width="26%" alt="]"/>
- <img src="https://i.imgur.com/MdTO58O.png" height="26%" width="26%" alt="]"/>
-![Image](https://github.com/user-attachments/assets/3454e9bc-4725-4365-ac19-54951f8ce2df)
+<h2>😄 Fun facts about me:</h2>
+
+<p>
+  I’m based in Northern Michigan and teach Graphic Arts at Charlton Heston Academy.
+  I love helping students build real-world design skills through creative projects.
+  Outside the classroom, I enjoy traveling and exploring new places whenever I can—and I’m always up for a new challenge.
+  I recently completed my first half marathon at the Kentucky Derby.
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/IKFotCJ.png" width="250" alt="Rocky Mountain National Park" style="margin: 6px;" />
+  <img src="https://i.imgur.com/91Jmlaz.png" width="250" alt="Half marathon at the Kentucky Derby" style="margin: 6px;" />
+  <img src="https://i.imgur.com/chRrxE2.png" width="250" alt="Northern Michigan outdoors" style="margin: 6px;" />
+</p>
+
+
+
+
  <h2> Connect with me:</h2>
 linkedin: https://www.linkedin.com/in/tawneystitt
 
